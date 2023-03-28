@@ -6,7 +6,7 @@
 
 <img align="right" alt="helloAle" height="153" width="153" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
 <img align="right" alt="helloAle" height="153" width="153" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
-<img align="right" alt="helloAle" height="153" width="153" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
+<img align="right" alt="helloAle" height="153" width="153" src="[https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif](https://br.ifunny.co/picture/bilau-gigante-XX8JTI6S8?s=cl)">
 
 
 <div>
