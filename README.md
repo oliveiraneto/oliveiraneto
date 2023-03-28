@@ -7,8 +7,7 @@
 <img align="right" alt="helloAle" height="153" width="153" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
 <img align="right" alt="helloAle" height="153" width="153" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
 <img align="right" alt="helloAle" height="153" width="153" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
-<img align="right" alt="helloAle" height="153" width="153" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
-<img align="right" alt="helloAle" height="153" width="153" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
+
 
 <div>
  
