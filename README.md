@@ -25,7 +25,6 @@
  ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
  ##
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF0000&width=435&lines=Bilau+gigante)](https://git.io/typing-svg)
-<!--   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=e+obrigado+pelos+peixes!)](https://git.io/typing-svg) -->
+
   
  ##
