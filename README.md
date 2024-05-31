@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&width=400&lines=leonel+bobo)](https://git.io/typing-svg)
+
  
 <h3> ⠀Beto aqui! </h3>
 
