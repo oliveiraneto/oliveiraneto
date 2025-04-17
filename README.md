@@ -20,6 +20,6 @@
 
 - ✉️ [sebastiaonetosilva18@gmail.com](mailto:sebastiaonetosilva18@gmail.com)
 - 📱 +55 62 99914-8833
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastião-oliveira-952746219/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebastião-oliveira-952746219/)
 
 ---
